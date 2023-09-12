@@ -53,6 +53,6 @@ aliyun:
     file:
       # 控制台 - oss - 点击对应桶 - 概览 - 地域节点
       endpoint: oss-cn-hangzhou.aliyuncs.com
-      keyid: LTAI5tFwDr12SyR9D75CjeQn
-      keysecret: 4bWXwFNr7Yenvd4LySVh1sT11Vpz2u
+      keyid:
+      keysecret:
       bucketname: myegomall
